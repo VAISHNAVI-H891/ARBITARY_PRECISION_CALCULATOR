@@ -1,7 +1,3 @@
-/*NAME : VAISHNAVI R HUJARATTI
-USER ID : 25017_269
-DATE : 15/11/2025
-PROJECT NAME : ARBITARY PREISION CALCULATOR(APC)*/
 /***********************************************************************************************
  * Title       : main function (Driver function)
  * Description : Driver for Arbitrary Precision Calculator (APC).
